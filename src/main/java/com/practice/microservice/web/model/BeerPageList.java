@@ -1,4 +1,4 @@
-package web.model;
+package com.practice.microservice.web.model;
 
 
 import org.springframework.data.domain.PageImpl;

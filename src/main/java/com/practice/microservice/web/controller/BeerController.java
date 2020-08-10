@@ -1,10 +1,9 @@
-package web.controller;
+package com.practice.microservice.web.controller;
 
-import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import web.model.BeerDto;
+import com.practice.microservice.web.model.BeerDto;
 
 import java.util.UUID;
 

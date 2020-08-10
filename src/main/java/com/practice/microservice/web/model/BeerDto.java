@@ -1,4 +1,4 @@
-package web.model;
+package com.practice.microservice.web.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
